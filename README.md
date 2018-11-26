@@ -32,6 +32,6 @@ This project assumes that you have all git projects in one root directory:
     - .git
     - node_modules
     - src
-      -index.html
+      - index.html
       
 If you pass the path to *my_git_folder* it will scan all files in the folders *project1*, *project_abc* and *project_node*. Furthermore it will scan recursively all files in the folders *project1.src*, *project_abc.src* and *project_node.src*.
