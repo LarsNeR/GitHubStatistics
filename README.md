@@ -1,5 +1,7 @@
 # GitHubStatistics
-Get statistics of git folders
+Get statistics of git directories.
+
+**I use this project to determine the statistics for my github page [LarsNeR.github.io](https://larsner.github.io/). It is not really generalized for custom directory structures.**
   
 # Statistics
 - Number of repos
